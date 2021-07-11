@@ -28,7 +28,6 @@
 <h3>FrameWork & Library</h3>
 <a href="" target="_blank"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white"/></a>
 <a href="" target="_blank"><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white"/></a>
-<a href="" target="_blank"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/></a>
 <br><br>
 <h3>DataBase</h3>
 <a href="" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/></a>
