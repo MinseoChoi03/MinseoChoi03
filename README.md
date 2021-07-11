@@ -25,7 +25,6 @@
 <a href="" target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white"/></a>
 <a href="" target="_blank"><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white"/></a>
 <br><br>
-
 <h3>FrameWork & Library</h3>
 <a href="" target="_blank"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white"/></a>
 <a href="" target="_blank"><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white"/></a>
@@ -41,9 +40,8 @@
 <a href="" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
 <h3>Gaming</h3>
-<img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"/>
+<a href="" target="_blank"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"/></a>
 <br><br>
-
 <h3>Social</h3>
 <a href="" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="" target="_blank"><img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" /></a>
