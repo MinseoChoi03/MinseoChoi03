@@ -7,8 +7,9 @@
 <br><br>
 ### 💬 Connect
 <a href ="https://www.facebook.com/profile.php?id=100034483665211"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white"/></a>
-<a href = "mailto:minseochoi0308@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836g?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href = "mailto:minseochoi0308@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
 <br><br>
+
 ### 🌱 My Contributions
 ![contributions](https://ghchart.rshah.org/MinseoChoi03)
 <br><br><br>
