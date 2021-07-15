@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&&color=gradient&height=200&section=header&text=MinseoChoi&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&&&color=gradient&height=200&section=header&text=Minseo%20Choi&fontSize=90)
 ![Minseo's github stats](https://github-readme-stats.vercel.app/api?username=MinseoChoi03&show_icons=true&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinseoChoi03&langs_count=6&layout=compact&langs_count=81)
 
