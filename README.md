@@ -7,7 +7,7 @@
 <br><br>
 ### 💬 Connect
 <a href ="https://www.facebook.com/profile.php?id=100034483665211"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white"/></a>
-<a href = "mailto:minseochoi0308@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minseochoi0308@gmail.com)](mailto:minseochoi0308@gmail.com)
 <br><br>
 
 ### 🌱 My Contributions
