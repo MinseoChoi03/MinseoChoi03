@@ -42,8 +42,9 @@
 <h3>Social</h3>
 <a href="" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="" target="_blank"><img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" /></a>
-<a href="" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" /></a>
 <a href="" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-00B3F5?style=flat-square&logo=telegram&logoColor=white"/></a>
+<a href="" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" /></a>
+
 
 <!--
 **MinseoChoi03/MinseoChoi03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
