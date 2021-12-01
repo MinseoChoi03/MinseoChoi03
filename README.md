@@ -40,9 +40,10 @@
 <a href="" target="_blank"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"/></a>
 <br><br>
 <h3>Social</h3>
-<a href="" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="" target="_blank"><img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" /></a>
 <a href="" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-00B3F5?style=flat-square&logo=telegram&logoColor=white"/></a>
+<a href="" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+
 
 
 <!--
