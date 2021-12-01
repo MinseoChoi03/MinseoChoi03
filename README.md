@@ -20,7 +20,6 @@
 <a href="" target="_blank"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&ogoColor=white"/></a>
 <a href="" target="_blank"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/></a>
 <a href="" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/></a>
-<a href="" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/></a>
 <a href="" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/></a>
 <a href="" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/nodejs-339933.svg?style=flat-square&logo=node.js&logoColor=white"></a>
 <br><br>
@@ -30,8 +29,8 @@
 <br><br>
 <h3>DataBase</h3>
 <a href="" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/></a>
-<a href="" target="_blank"><img alt="Oracle" src ="https://img.shields.io/badge/oracle-%23F00000.svg?style=flat-square&logo=oracle&logoColor=white" /></a>
-<a href="" target="_blank"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white"/></a>
+<a href="" target="_blank"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-GA248.svg?style=flat-square&logo=MongoDB&logoColor=white"/></a>
+<a href="" target="_blank"><img alt="Oracle" src ="https://img.shields.io/badge/oracle-%23F00000.svg?style=flat-square&logo=oracle&logoColor=white"/></a>
 <br><br>
 <h3>Version Control</h3>
 <a href="" target="_blank"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/></a>
@@ -44,7 +43,6 @@
 <a href="" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="" target="_blank"><img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" /></a>
 <a href="" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-00B3F5?style=flat-square&logo=telegram&logoColor=white"/></a>
-<a href="" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" /></a>
 
 
 <!--
